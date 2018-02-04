@@ -1,0 +1,14 @@
+Diff -u      comparar
+
+Muchos desarrolladores usan una longitud de línea máxima de 80 a 120 caracteres.
+
+Git fue creado en 2005 por Linus Torvalds
+
+CVS Concurrent Version Systems
+SVN subversion
+
+git diff ID ID      comparar diferentes versiones de un archivo en git
+
+git log --stat
+
+git config --global color.ui auto
